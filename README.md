@@ -1,9 +1,11 @@
-# Send-data-between-activities-using-intent-in-kotlin
+# Activity & Intent
 
-In this tutorial we will learn how to send data between activities using intent in kotlin.
+This small app is to show the meaning of Activity & Intent. As you can see this data will show a login page and the next activity is to display the data that was inserted.
 
-𝐒ᴜʙ𝐒ʀɪʙᴇ My 𝗬𝗢𝗨𝗧𝗨𝗕𝗘  Channel #𝗰𝗼𝗱𝗶𝗻𝗴𝘄𝗶𝘁𝗱𝗲𝘃 for more latest videos..
-Watch Tutorial on -
-[Youtube](https://youtu.be/w6gyI4iDIK8)
+![Screenshot_20210611_003340](https://user-images.githubusercontent.com/26829975/121641712-c36da480-ca4c-11eb-8092-5ae8fbda8b45.png)
 
-![image](https://github.com/devendrachavan/Send-data-between-activities-using-intent-in-kotlin/blob/master/IntentData.png)
+![Screenshot_20210611_003406](https://user-images.githubusercontent.com/26829975/121641736-ccf70c80-ca4c-11eb-9858-62727d78e453.png)
+
+
+
+
